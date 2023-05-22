@@ -1,0 +1,82 @@
+body
+{
+    background-image: ;
+    background: #f9f9f9;
+    font-family: Calibri;
+
+}
+p
+{
+    font-family: B Nazanin;
+    font-size: 30px;
+    margin: 50px;
+}
+img
+{
+    margin: 75px;
+    border-radius: 15px;
+}
+img.one
+{
+    border-style: solid;
+    border-width: 10px 10px;
+    border-color: rgb(247, 250, 249);
+
+}
+img.tow
+{
+    border-style: groove;
+    border-width: 10px 10px;
+    border-color: rgb(247, 250, 249);
+}
+img.three
+{
+    border-style: groove;
+    border-width: 10px 10px;
+    border-color: rgb(247, 250, 249);
+
+}
+h1
+{
+    font-size: x-large;
+    color: #9f6d6a;
+    padding-left: 7px;
+    margin: 5px;
+
+}
+.profileText
+{
+    border:10px outset red;
+    width: 230px;
+    height: 100px;
+    background-color: rgb(23, 54, 65);    
+    text-align: left;
+        
+}
+#name
+{
+    color: rgb(230,188,198);
+}
+td
+{
+    font-size: larger;
+    color: rgb(39, 13, 13);
+
+}
+h2
+{
+    font-size: larger;
+    color: sienna;
+}
+li
+{
+    font-size: 20px;
+    color: #f9f9f9
+    &nbsp;&nbsp;❗
+}
+a
+{
+    font-family: Tahuma;
+    font-size: large;
+    color: rgb(238, 67, 96);
+}
